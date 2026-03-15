@@ -15,8 +15,8 @@ CLI para subir vídeos editados a **YouTube**, **TikTok** e **Instagram** de for
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd social-uploader
+git clone https://github.com/ElGundamPa/Social-Uploader.git
+cd Social-Uploader
 pip install -r requirements.txt
 pip install -e .
 ```
